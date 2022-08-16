@@ -1,0 +1,12 @@
+
+substract $0x28 , %rsp
+%eax = 0
+$0x0 = rsi
+
+
+
+var $0x1   asign  %ebx 
+var $0x4   asign  %rbp
+
+ compare %eax , 0x4 (%rpb) 
+ if yes jump to 1644 
